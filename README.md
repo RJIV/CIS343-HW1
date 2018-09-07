@@ -6,4 +6,4 @@
 # git diff : view all merge conflicts
 # git pull : fetch and merge changes on the remote server to your working directory
 # git merge : merge a different branch into your active branch
-# git status : List the files you've changed and those you still need to add or commit:
+# git status : List the files you've changed and those you still need to add or commit
